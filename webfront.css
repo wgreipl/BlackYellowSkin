@@ -1,0 +1,35 @@
+/* Minimale Breite der Buttons. Zentrierte Ausrichtung der Schrift */
+.ipsCategory > .container .content .rightSide > .enum > div, 
+.ipsCategory > .container .content .rightSide > .selector > div, 
+.ipsCategory > .container .extended > .textBox > div {
+	min-width: 50px;
+	text-align: center; 
+}
+/* Fontfarben und Hintergrund */
+.ipsTabPane > .navigation > .widgets > div > .title {
+	color: #FFE381;
+}
+
+.ipsCategory> .container .content .title {
+	color: #C49B38;
+}
+
+.ipsTabPane > .navigation > .scroll > .buttons > div > .title {
+	color: #C49B38;
+}
+
+.ipsWebFront {
+	background-color: #555555;
+}
+
+.ipsTabPane > .navigation ,
+.ipsContentChanger > .navigation {
+	background-color: #111111;
+}
+/* Slider Abstand untereinander */
+.ipsCategory > .container .content .rightSide > .colorChanger > .sliders > div {
+	height: 30px;
+}
+.ipsCategory > .container .content .rightSide > .colorChanger > .sliders > div > .background {
+	height: 15px;
+}
