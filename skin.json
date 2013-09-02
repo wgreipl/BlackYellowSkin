@@ -1,5 +1,5 @@
 {
-    "author": "Rainer Würtz",
+    "author": "Rainer W\u00fcrtz",
     "version": "1.0",
     "compatible": 1,
     "url": "http:\/\/www.ip-symcon.de\/forum\/",
@@ -9,8 +9,6 @@
         "Aussentemperatur",
         "DoorClosed",
         "DoorOpen",
-        "Flag",
-        "Globe",
         "RGB",
         "SpeakerOff",
         "Timer",
